@@ -5,5 +5,5 @@ public class atm
     {
         System.out.println("i want to create  atm project in the git");
        
-
+    }
 }
